@@ -7,7 +7,7 @@ const products = [
     { id: 3, name: 'Monstera', price: 30, image: 'photos/Monstera.jpg' },
     { id: 4, name: 'Peace Lily', price: 15, image: 'photos/PeaceLily.jpg' },
     { id: 5, name: 'Spider Plant', price: 10, image: 'photos/SpiderPlant.jpg' },
-    { id: 6, name: 'ZZ Plant', price: 35, image: 'photos/ZZPlant.jpg' },
+    { id: 6, name: 'ZZ Plant', price: 35, image: 'photos/zzplnt.jpg' },
 ];
 
 const ProductListingPage = () => (
