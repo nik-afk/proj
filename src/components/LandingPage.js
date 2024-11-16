@@ -38,7 +38,7 @@ const LandingPage = () => {
                         <p>Classic, adaptable, cascading green foliage</p>
                     </div>
                     <div className="card">
-                        <img src="photos/ZZPlant.jpg" alt="ZZ Plant" className="plant-image" />
+                        <img src="photos/SpiderPlant.jpg" alt="ZZ Plant" className="plant-image" />
                         <h2>ZZ Plant</h2>
                         <p>Resilient, glossy leaves, drought-tolerant</p>
                     </div>
